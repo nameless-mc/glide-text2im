@@ -1,0 +1,10 @@
+--extra-index-url https://download.pytorch.org/whl/cu113
+Pillow
+attrs
+torch
+filelock
+requests
+tqdm
+ftfy
+regex
+numpy
